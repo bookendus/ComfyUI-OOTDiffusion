@@ -104,6 +104,9 @@ OOTDiffusion 本体依赖于 `diffusers==0.24.0` 实现，所以假如有其他�
 
 ## 更新日志 Release Note
 
+2024-12-02:
+Diffusers 0.26 
+
 2024-03-04:
 
 添加 Full body 模型
